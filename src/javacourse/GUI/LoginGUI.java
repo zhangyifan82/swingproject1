@@ -114,7 +114,7 @@ public class LoginGUI extends JFrame{
     public static void main(String []args) {
         //主程序
         //登录窗口
-        System.out.println("haha")
+        System.out.println("haha");
        new Thread(new Runnable() {
            @Override
            public void run() {
